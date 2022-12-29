@@ -1,4 +1,4 @@
-# PipelineCi
+# Pipeline Ci - Elixir
 
 To start your Phoenix server:
 
