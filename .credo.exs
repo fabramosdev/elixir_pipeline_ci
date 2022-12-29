@@ -78,7 +78,7 @@
           {Credo.Check.Warning.UnusedStringOperation, []},
           {Credo.Check.Warning.UnusedTupleOperation, []},
           {Credo.Check.Warning.UnsafeExec, []},
-          {Credo.Check.Warning.LazyLogging, false},
+          {Credo.Check.Warning.LazyLogging, false}
         ],
         disabled: [
           {Credo.Check.Consistency.MultiAliasImportRequireUse, []},
